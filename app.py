@@ -2,7 +2,7 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
-import plotly.express as px
+
 import plotly.graph_objects as go
 
 from pypfopt.expected_returns import mean_historical_return
