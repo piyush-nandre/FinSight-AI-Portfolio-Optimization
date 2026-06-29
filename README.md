@@ -190,4 +190,4 @@ Developed as a portfolio project demonstrating skills in:
 * Retrieval-Augmented Generation
 * Vector Databases
 * Applied Artificial Intelligence
-* Full-Stack Python Development
+* Fintech Analytics
