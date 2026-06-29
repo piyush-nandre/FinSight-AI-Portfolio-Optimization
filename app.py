@@ -2,7 +2,6 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
-
 import plotly.graph_objects as go
 
 from pypfopt.expected_returns import mean_historical_return
@@ -105,7 +104,7 @@ st.title("📈 FinSight AI")
 st.subheader("Intelligent Indian Portfolio Optimization Platform")
 
 # ===========================
-# TOP CONTROLS (NO SIDEBAR)
+# TOP CONTROLS
 # ===========================
 st.markdown("### 🛠️ Portfolio Configuration")
 controls_col1, controls_col2, controls_col3 = st.columns([1, 1, 2])
@@ -135,6 +134,7 @@ with controls_col3:
         "NIFTYBEES.NS",
         "BANKBEES.NS",
         "GOLDBEES.NS",
+        "SILVERBEES.NS",
     ]
     selected_assets = st.multiselect(
         "Select Stocks and ETFs",
