@@ -37,6 +37,10 @@ The platform combines Modern Portfolio Theory (MPT), Efficient Frontier analysis
 * IT Slowdown Scenario
 * Market Correction Scenario
 * Bull Market Scenario
+* China Slowdown
+* AI Boom
+* Recession
+* Oil / crude price hike
 
 ### AI-Powered Insights
 
