@@ -163,7 +163,21 @@ streamlit run app.py
 
 ---
 
+## Give it a try
+
+https://finsight-ai-portfolio-optimization.streamlit.app
+
+---
+
+## Demo video
+
+Coming soon!
+
+---
+
 ## Author
+
+Piyush Nandre
 
 Developed as a portfolio project demonstrating skills in:
 
